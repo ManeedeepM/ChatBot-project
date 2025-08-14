@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🤖 Customer Service Chatbot
 
 A simple, rule-based chatbot built with Python to answer basic customer service questions. This project is a great starting point for beginners to understand how chatbots work using regular expressions for pattern matching.
@@ -17,3 +18,6 @@ A simple, rule-based chatbot built with Python to answer basic customer service 
    ```bash
    git clone [https://github.com/your-username/chatbot-project.git](https://github.com/your-username/chatbot-project.git)
    cd chatbot-project
+=======
+# ChatBot-project
+>>>>>>> f645a28e2732b70782cea1a27b7764da17aa330b
